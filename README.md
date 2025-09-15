@@ -18,6 +18,8 @@ The goal is to build models that can better detect fraudulent transactions by:
 ├── README.md                          # Documentation file  
 └── creditcard.csv                     # Dataset
 
+⚠ *Note*: The creditcard.csv dataset (~144 MB) exceeds GitHub’s 100 MB file size limit, so it is not included in this repository.
+
 ---
 
 ## 📊 Dataset
